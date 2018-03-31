@@ -22,5 +22,6 @@
     },
     "require-dev": {
         "codeception/codeception": "^2.3",
+        "php-coveralls/php-coveralls": "^2.0"
    }
 }
